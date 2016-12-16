@@ -1,1 +1,1 @@
-MultiTenant Tenant web example (stateless)
+Multi Tenant Web example (stateless)
